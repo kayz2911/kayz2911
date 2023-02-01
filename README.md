@@ -1,17 +1,8 @@
-<h1 align="center">  I'm Hieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-
+<h1 align="center"> Do Huy Hieu! </h1>
 
 <p align="center">
-  <em>I'm currently studying at <a href="https://soict.hust.edu.vn/gioi-thieu">Hanoi University of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </em>
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150">
 </p>
-
-<br />
-
-
-
-
-<h1 align="center">📚 Stack 📚</h1>
 
 <h3 align="center">Language</h3>
 
